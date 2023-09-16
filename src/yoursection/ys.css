@@ -1,0 +1,21 @@
+.ys_img{
+    margin-left: 8%;
+    background-image: url(../image/n1.jpg);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    width: 3000px;
+    height: 600px;
+    /* background-size:auto; */
+  }
+  .head-text{
+    margin-top: 0%;
+    margin-bottom: 7.8rem;
+    margin-left: 0%;
+    margin-right: 64rem;
+    padding-left: 0%;
+    color: white;
+    padding: 5%;
+    text-align: center;
+    opacity: 1;
+    max-width: 770px;
+  }
